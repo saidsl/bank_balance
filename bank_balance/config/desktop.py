@@ -7,7 +7,7 @@ def get_data():
 		{
 			"module_name": "Bank Balance",
 			"color": "green",
-			"icon": "octicon octicon-file",
+			"icon": "octicon octicon-book",
 			"type": "module",
 			"label": _("Bank Balance")
 		}
